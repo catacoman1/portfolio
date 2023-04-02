@@ -1,0 +1,83 @@
+.contact-me-container {
+  margin: 2rem auto;
+  max-width: 600px;
+  padding: 2rem;
+  border-radius: 1rem;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.2);
+  background-color: #b7a4c0;
+  text-align: center;
+}
+
+.contact-me-container h2 {
+  margin-bottom: 1rem;
+}
+
+.contact-me-container form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.contact-me-container label {
+  margin-top: 1rem;
+}
+
+.contact-me-container input,
+.contact-me-container textarea {
+  margin-top: 0.5rem;
+  padding: 0.5rem;
+  width: 100%;
+  border: none;
+  border-radius: 0.25rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.2);
+}
+
+.contact-me-container textarea {
+  height: 10rem;
+}
+
+.contact-me-container button {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background-color: #262435;
+  color: #fff;
+  border: none;
+  border-radius: 0.25rem;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+  transition: all 0.2s ease-in-out;
+}
+
+.contact-me-container button:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0);
+  background-color: gray;
+}
+
+.contact-me-container button:active {
+  transform: translateY(1px);
+  box-shadow: none;
+}
+
+@media (max-width: 768px) {
+  .contact-me-container {
+    max-width: 90%;
+    padding: 1rem;
+    border-radius: 0.5rem;
+  }
+
+  .contact-me-container input,
+  .contact-me-container textarea {
+    padding: 0.25rem;
+    font-size: 0.9rem;
+  }
+
+  .contact-me-container textarea {
+    height: 8rem;
+  }
+
+  .contact-me-container button {
+    padding: 0.5rem 0.75rem;
+    font-size: 0.9rem;
+  }
+}
