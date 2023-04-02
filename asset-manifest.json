@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.b320ff65.css",
-    "main.js": "/portfolio/static/js/main.52b67c5b.js",
+    "main.js": "/portfolio/static/js/main.8e8981cf.js",
     "static/media/veoneer.jpg": "/portfolio/static/media/veoneer.756a6c57b53de31101de.jpg",
     "static/media/bg-photo.jpg": "/portfolio/static/media/bg-photo.7e57b28b17c282dda38f.jpg",
-    "static/media/CV.pdf": "/portfolio/static/media/CV.95ea2cfb7a2818cddc6b.pdf",
     "static/media/poza_profil.jpg": "/portfolio/static/media/poza_profil.29cab075241398e44063.jpg",
+    "static/media/CV.pdf": "/portfolio/static/media/CV.0d2986201baad3d71e11.pdf",
     "static/media/react.jpg": "/portfolio/static/media/react.d5e06f92a7c94b850f40.jpg",
     "static/media/vitesco.jpg": "/portfolio/static/media/vitesco.eaeba543a4d826f45237.jpg",
     "static/media/react2.jpg": "/portfolio/static/media/react2.2d6e4e4248a277528ecd.jpg",
     "static/media/coming_soon.png": "/portfolio/static/media/coming_soon.cd900aa138377f85b532.png",
     "index.html": "/portfolio/index.html",
     "main.b320ff65.css.map": "/portfolio/static/css/main.b320ff65.css.map",
-    "main.52b67c5b.js.map": "/portfolio/static/js/main.52b67c5b.js.map"
+    "main.8e8981cf.js.map": "/portfolio/static/js/main.8e8981cf.js.map"
   },
   "entrypoints": [
     "static/css/main.b320ff65.css",
-    "static/js/main.52b67c5b.js"
+    "static/js/main.8e8981cf.js"
   ]
 }
