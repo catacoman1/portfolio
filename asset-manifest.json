@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.b320ff65.css",
+    "main.css": "/portfolio/static/css/main.5c48d225.css",
     "main.js": "/portfolio/static/js/main.8e8981cf.js",
     "static/media/veoneer.jpg": "/portfolio/static/media/veoneer.756a6c57b53de31101de.jpg",
     "static/media/bg-photo.jpg": "/portfolio/static/media/bg-photo.7e57b28b17c282dda38f.jpg",
@@ -11,11 +11,11 @@
     "static/media/react2.jpg": "/portfolio/static/media/react2.2d6e4e4248a277528ecd.jpg",
     "static/media/coming_soon.png": "/portfolio/static/media/coming_soon.cd900aa138377f85b532.png",
     "index.html": "/portfolio/index.html",
-    "main.b320ff65.css.map": "/portfolio/static/css/main.b320ff65.css.map",
+    "main.5c48d225.css.map": "/portfolio/static/css/main.5c48d225.css.map",
     "main.8e8981cf.js.map": "/portfolio/static/js/main.8e8981cf.js.map"
   },
   "entrypoints": [
-    "static/css/main.b320ff65.css",
+    "static/css/main.5c48d225.css",
     "static/js/main.8e8981cf.js"
   ]
 }
