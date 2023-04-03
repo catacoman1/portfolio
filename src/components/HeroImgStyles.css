@@ -63,8 +63,8 @@
     }
 }
 .poza-profil{
-    height:350px;
-    width:350px;
+    height: 200px;
+    width:200px;
     border: 5px solid white;
     border-radius: 50%;
     transition: transform 0.2s ease-in-out;
