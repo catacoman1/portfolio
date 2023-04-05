@@ -17,15 +17,20 @@
     
 }
 .nav-menu li{
-    padding: 0 1rem;
+    padding: 0 0.8rem;
 }
 .nav-menu li a{
     font-size: 1.2rem;
     font-weight: 500;
 }
+.nav-menu li a:hover{
+    color: #fff;
+    border-bottom: 2px solid #fff;
+}
 .hamburger{
     display:none;
 }
+
 @media screen and (max-width:640px) {
     .nav-menu{
         flex-direction: column;
