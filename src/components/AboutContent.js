@@ -2,7 +2,7 @@ import { Link } from "react-router-dom"
 import "./AboutContentStyles.css"
 import React1 from "../assets/react.jpg"
 import React2 from "../assets/react2.jpg"
-import Poza_profil from "../assets/poza_profil.jpg"
+import Poza_profil from "../assets/poza_profil1.jpg"
 import React from 'react'
 import { NavLink } from "react-router-dom";
 

@@ -1,8 +1,9 @@
 import { getByTitle } from "@testing-library/react"
 
-import pro2 from "../assets/coming_soon.png"
+import proiect2 from "../assets/proiect2.png"
 import pro3 from "../assets/coming_soon.png"
 import proiect1 from "../assets/proiect1.png"
+
 
 const ProjectCardData = [
     {
@@ -12,9 +13,9 @@ const ProjectCardData = [
         view: "https://github.com/catacoman1/todolist"
     },
     {
-        imgsrc: pro2,
-        title: "Coming Soon",
-        text: "Working on more projects. I will add them to this Portfolio once i think they are good enough.",
+        imgsrc: proiect2,
+        title: "Access App",
+        text: "Access into a Company Mobile App done for university project using React-Native and TypeScript",
         view: "https://github.com/catacoman1"
     },
     {

@@ -14,6 +14,7 @@ const Skills = () => {
           <div className="skill-bar-container">
             <div className="skill-bar" style={{width: '90%'}}></div>
           </div>
+          
         </div>
         <div className="skill">
           <div className="skill-title">
@@ -23,12 +24,25 @@ const Skills = () => {
           <div className="skill-bar-container">
             <div className="skill-bar" style={{width: '80%'}}></div>
           </div>
+
+
+          <br></br>
+          <div className="skill-title">
+            <p>TypeScript</p>
+            <p>60%</p>
+          </div>
+          <div className="skill-bar-container">
+            <div className="skill-bar" style={{width: '60%'}}></div>
+
+          </div>
+        
         </div>
         <div className="skill">
           <div className="skill-title">
             <p>JavaScript</p>
             <p>70%</p>
           </div>
+
           <div className="skill-bar-container">
             <div className="skill-bar" style={{width: '70%'}}></div>
           </div>
@@ -53,7 +67,7 @@ const Skills = () => {
         </div>
         <div className="skill">
           <div className="skill-title">
-            <p>Angular</p>
+            <p>React-Native</p>
             <p>70%</p>
           </div>
           <div className="skill-bar-container">
